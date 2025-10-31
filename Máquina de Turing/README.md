@@ -9,3 +9,7 @@ Esta pasta contém anotações e exercícios sobre máquinas de Turing.
 - Computabilidade
 - Tese de Church-Turing
 - Problemas decidíveis e indecidíveis
+
+## Referências
+
+- [Simulador da Máquina de Turing](http://turingmachine.io)
